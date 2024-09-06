@@ -4,3 +4,8 @@
 *.webp
 0905/dataset/
 누끼/
+model.keras
+horseOrhuman/dataset/
+horseOrhuman/random_sorted_datasets/
+horseOrhuman/전처리
+horseOrhuman/model.keras
