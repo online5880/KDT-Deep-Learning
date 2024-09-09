@@ -9,3 +9,4 @@ horseOrhuman/dataset/
 horseOrhuman/random_sorted_datasets/
 horseOrhuman/전처리
 horseOrhuman/model.keras
+*.keras
